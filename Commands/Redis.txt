@@ -1,0 +1,4 @@
+set key value
+get key
+---------
+Redis: Destributed cache is shared by multiple app servers
