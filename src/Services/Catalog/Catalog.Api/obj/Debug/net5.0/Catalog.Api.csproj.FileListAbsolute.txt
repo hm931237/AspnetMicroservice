@@ -44,3 +44,5 @@ D:\Hesham\Courses\AspnetMicroservices\src\Services\Catalog\Catalog.Api\obj\Debug
 D:\Hesham\Courses\AspnetMicroservices\src\Services\Catalog\Catalog.Api\obj\Debug\net5.0\Catalog.Api.pdb
 D:\Hesham\Courses\AspnetMicroservices\src\Services\Catalog\Catalog.Api\obj\Debug\net5.0\Catalog.Api.genruntimeconfig.cache
 D:\Hesham\Courses\AspnetMicroservices\src\Services\Catalog\Catalog.Api\obj\Debug\net5.0\ref\Catalog.Api.dll
+D:\Hesham\Courses\AspnetMicroservices\src\Services\Catalog\Catalog.Api\obj\Debug\net5.0\Catalog.Api.Properties.Resources.resources
+D:\Hesham\Courses\AspnetMicroservices\src\Services\Catalog\Catalog.Api\obj\Debug\net5.0\Catalog.Api.csproj.GenerateResource.cache
