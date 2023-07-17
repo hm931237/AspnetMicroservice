@@ -29,7 +29,6 @@ namespace Catalog.Api.Controllers
             return Ok(await products);
         }
         [HttpGet("{id:length(24)}",Name ="GetProduct")]
-        [ProducesResponseType((int)HttpStatusCode.OK)]
         [ProducesResponseType(typeof(Product), (int)HttpStatusCode.OK)]
         public async Task<ActionResult<Product>> GetProductById(string id)
         {
