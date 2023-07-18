@@ -1,0 +1,6 @@
+-remote procedure call (RPC)
+-gRPC is based on the following principles::
+	*Protocol buffers
+	*HTTP/2
+	*Streaming:
+-Kestrel is a cross-platform web server that is included with ASP.NET Core.
