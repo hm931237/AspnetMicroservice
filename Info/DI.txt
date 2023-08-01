@@ -1,0 +1,7 @@
+Dependency Injection Types:
+	1- Construction Injection: accepts their dependency at the constructor level which means that when creating an object of the class, their dependency passes through the constructor of the class.
+	2- Setter Injection: known as property injection, dependency passes through public property instead of the constructor.
+	3- Interface based Injection: achieved by creating the common interface and other classes are implements this interface to inject the dependency.
+Service containers types:
+	1- Framework Services(ILoggerFactory)
+	2- Application Services: custom services created based on our requirements.
