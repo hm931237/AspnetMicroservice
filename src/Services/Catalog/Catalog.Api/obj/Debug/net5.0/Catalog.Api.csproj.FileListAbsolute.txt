@@ -24,6 +24,8 @@ D:\Hesham\Courses\AspnetMicroservices\src\Services\Catalog\Catalog.Api\bin\Debug
 D:\Hesham\Courses\AspnetMicroservices\src\Services\Catalog\Catalog.Api\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
 D:\Hesham\Courses\AspnetMicroservices\src\Services\Catalog\Catalog.Api\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
 D:\Hesham\Courses\AspnetMicroservices\src\Services\Catalog\Catalog.Api\obj\Debug\net5.0\Catalog.Api.csproj.AssemblyReference.cache
+D:\Hesham\Courses\AspnetMicroservices\src\Services\Catalog\Catalog.Api\obj\Debug\net5.0\Catalog.Api.Properties.Resources.resources
+D:\Hesham\Courses\AspnetMicroservices\src\Services\Catalog\Catalog.Api\obj\Debug\net5.0\Catalog.Api.csproj.GenerateResource.cache
 D:\Hesham\Courses\AspnetMicroservices\src\Services\Catalog\Catalog.Api\obj\Debug\net5.0\Catalog.Api.GeneratedMSBuildEditorConfig.editorconfig
 D:\Hesham\Courses\AspnetMicroservices\src\Services\Catalog\Catalog.Api\obj\Debug\net5.0\Catalog.Api.AssemblyInfoInputs.cache
 D:\Hesham\Courses\AspnetMicroservices\src\Services\Catalog\Catalog.Api\obj\Debug\net5.0\Catalog.Api.AssemblyInfo.cs
@@ -44,5 +46,3 @@ D:\Hesham\Courses\AspnetMicroservices\src\Services\Catalog\Catalog.Api\obj\Debug
 D:\Hesham\Courses\AspnetMicroservices\src\Services\Catalog\Catalog.Api\obj\Debug\net5.0\Catalog.Api.pdb
 D:\Hesham\Courses\AspnetMicroservices\src\Services\Catalog\Catalog.Api\obj\Debug\net5.0\Catalog.Api.genruntimeconfig.cache
 D:\Hesham\Courses\AspnetMicroservices\src\Services\Catalog\Catalog.Api\obj\Debug\net5.0\ref\Catalog.Api.dll
-D:\Hesham\Courses\AspnetMicroservices\src\Services\Catalog\Catalog.Api\obj\Debug\net5.0\Catalog.Api.Properties.Resources.resources
-D:\Hesham\Courses\AspnetMicroservices\src\Services\Catalog\Catalog.Api\obj\Debug\net5.0\Catalog.Api.csproj.GenerateResource.cache
