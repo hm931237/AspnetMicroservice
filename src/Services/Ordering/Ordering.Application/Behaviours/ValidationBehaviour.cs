@@ -16,7 +16,7 @@ namespace Ordering.Application.Behaviours
         private readonly IEnumerable<IValidator<TRequest>> _validators;
         public ValidationBehaviour(IEnumerable<IValidator<TRequest>> validators)
         {
-            validators= validators ?? throw new ArgumentNullException(nameof(validators));
+            _validators = validators ?? throw new ArgumentNullException(nameof(validators));
         }
         public async Task<TResponse> Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate<TResponse> next)
         {
