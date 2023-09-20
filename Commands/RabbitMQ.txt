@@ -1,0 +1,15 @@
+-what is RabbitMQ
+ .message queuing system
+ .Event-Driven Architecture
+ .support for multiple operating systems and open source
+ .exchange types:-
+	Exchange is the structure that decides which queues to send the messages.
+		1-Direct Exchanges: uses of a single queue is being addressed.
+		2-topic exchange: messages are sent to different queues According to their subjects
+		3-Fanout exchange: is used in situations where the message should be sent to more than one queue.
+		4-Headers Exchange: 
+ .RabbitMQ Queue Properties:-
+	1-name
+	2-durable: This will determine the lifetime of the queue.
+	3-exclusive: This provide contains information whether the queue will be used with other connections.
+	4-AutoDelete: this provide to contains information about deletion of the queue
