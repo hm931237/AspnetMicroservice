@@ -12,4 +12,6 @@
 	1-name
 	2-durable: This will determine the lifetime of the queue.
 	3-exclusive: This provide contains information whether the queue will be used with other connections.
-	4-AutoDelete: this provide to contains information about deletion of the queue
+	4-AutoDelete: this provide to contains information about deletion of the queue.
+
+Mass transit: is an open-source lightweight message bus framework for .NET.
